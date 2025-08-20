@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "posts": [
     {
@@ -16,4 +17,24 @@
   "profile": {
     "name": "typicode"
   }
+=======
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+>>>>>>> 715135b29626239596822930d569a81a22bf6950
 }
